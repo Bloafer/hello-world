@@ -1,4 +1,4 @@
-hello-world
+Hello World
 ===========
 
-PHP Hello world with a twist
+PHP Hello world php scripts
